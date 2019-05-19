@@ -26,11 +26,11 @@
 
 # UI 이미지
 [메인]<br>
-![메인](https://user-images.githubusercontent.com/49672285/57976813-6bf2db00-7a24-11e9-9ef4-fbf00737d544.PNG)
+![메인](https://user-images.githubusercontent.com/49672285/57976813-6bf2db00-7a24-11e9-9ef4-fbf00737d544.PNG)<br>
 [날씨 검색]<br>
-![날씨](https://user-images.githubusercontent.com/49672285/57976812-6bf2db00-7a24-11e9-84d4-33cb8bdaf220.PNG)
+![날씨](https://user-images.githubusercontent.com/49672285/57976812-6bf2db00-7a24-11e9-84d4-33cb8bdaf220.PNG)<br>
 [버스 검색 - Level 1]<br>
-![역검색1](https://user-images.githubusercontent.com/49672285/57976814-6c8b7180-7a24-11e9-93bf-c08ecd59f2b6.PNG)
+![역검색1](https://user-images.githubusercontent.com/49672285/57976814-6c8b7180-7a24-11e9-93bf-c08ecd59f2b6.PNG)<br>
 [버스 검색 - Level 2]<br>
 ![역검색2](https://user-images.githubusercontent.com/49672285/57976815-6c8b7180-7a24-11e9-813d-bbe45f425980.PNG)
 
